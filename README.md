@@ -1,4 +1,4 @@
-# Food Nutrition Analysis (EDA)
+# Food Nutrition Analysis (EDA & Visualization)
 
 ## Overview
 
